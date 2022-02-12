@@ -3,6 +3,9 @@ CIDR SOKS
 
 https://dash.cloudflare.com/profile/api-tokens
 
+https://www.ipaddressguide.com/cidr
+
+
 riderect tamer clock ID
 
 CIDR to IP Range
